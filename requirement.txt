@@ -1,0 +1,7 @@
+Requirements :
+
+1. Python3
+2. OpenCV
+3. Numpy
+4. imutils
+

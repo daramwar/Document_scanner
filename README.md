@@ -14,5 +14,11 @@ Necessary comments have been added for simplification of the code, but for furth
 
 Words of Caution: To get a clean and market worthy scan please use a contrast background from the image. This helps in creating the edges of the document properly which is the backbone of this algorithm.
 
-###Scanner_save_imgs.py
+### Scanner_save_imgs.py
 This is a python file to save outputs at various stages through the algorithm. You can additionally add cv.imwrite command anywhere to save the output.
+
+## Additional Inputs
+This folder is a collection of a few different images which can be used to test out the algorithm. It covers a wide range of possible images.
+
+## Pitfalls
+This folder contains a few challenges and problems one might face while implementing the algorithm.

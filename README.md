@@ -21,4 +21,7 @@ This is a python file to save outputs at various stages through the algorithm. Y
 This folder is a collection of a few different images which can be used to test out the algorithm. It covers a wide range of possible images.
 
 ## Pitfalls
-This folder contains a few challenges and problems one might face while implementing the algorithm.
+This directory contains a few challenges and problems one might face while implementing the algorithm.
+
+## Outputs of various functions
+It contains number of images of the outputs at various steps (like, grayscale, canny edge detection, perspective transformation, etc.) through-out the algorithm. The outputs are for the "input.jpg" image which can be found in the same directory.
